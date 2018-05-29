@@ -1,0 +1,10 @@
+numpy
+scipy
+cython
+h5py
+Pillow
+scikit-image
+tensorflow
+keras
+jupyter
+matplotlib
